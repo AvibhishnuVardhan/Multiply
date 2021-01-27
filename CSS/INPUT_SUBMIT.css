@@ -1,0 +1,5 @@
+input[type="submit"]{
+color:green;
+font-size:40px;
+background-image:linear-gradient(to right,red,yellow,orange);
+}

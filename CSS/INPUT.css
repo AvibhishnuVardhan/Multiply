@@ -1,0 +1,10 @@
+input {
+    font-style:italic;
+    color:white;
+    background-color:black;
+    text-align:center;
+    font-family:courier;
+    font-size:40px;
+    border-style:2px solid round;
+    border-radius:34px;
+}
