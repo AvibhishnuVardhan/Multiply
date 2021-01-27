@@ -1,1 +1,10 @@
-
+ body{
+overscroll-behavior:contain;
+background-color:black;
+-moz-user-select:none;
+-ms-user-select:none;
+-o-user-select:none;
+-youbkit-user-select:none;
+user-select:none;
+font-family:courier;
+}
