@@ -1,7 +1,6 @@
  body{
 overscroll-behavior:contain;
 background-image:linear-gradient(to right,purple,violet,blue,green,yellow,orange,red);
-text-align:center;
 -moz-user-select:none;
 -ms-user-select:none;
 -o-user-select:none;
