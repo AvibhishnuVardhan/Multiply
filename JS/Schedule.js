@@ -3,7 +3,7 @@ var x,h,m;
 x = new Date();
 h = x.getHours();
 m = x.getMinutes();
-if(h == "21"&&m == "30"){
+if(h == "21"){
 location.replace("https://spat-cloud.github.io/data/Night.html");
 }
 else if(h == "05"&&m == "30"){
