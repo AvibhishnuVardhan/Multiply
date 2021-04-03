@@ -1,6 +1,6 @@
  body{
 overscroll-behavior:contain;
-background-image:linear-gradient(to bottom,purple,violet,blue,green,yellow,orange,red);
+background-image:url('https://spat-cloud.github.io/data/DORAEMON1.png');
 -moz-user-select:none;
 -ms-user-select:none;
 -o-user-select:none;
